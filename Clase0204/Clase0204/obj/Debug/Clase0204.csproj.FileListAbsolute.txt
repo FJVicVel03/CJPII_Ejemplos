@@ -1,0 +1,6 @@
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.exe.config
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.exe
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.pdb
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.exe
+c:\users\fernando\documents\visual studio 2012\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.pdb
