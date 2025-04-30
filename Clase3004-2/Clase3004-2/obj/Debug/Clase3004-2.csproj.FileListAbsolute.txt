@@ -1,0 +1,5 @@
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase3004-2\Clase3004-2\bin\Debug\Clase3004-2.exe.config
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase3004-2\Clase3004-2\bin\Debug\Clase3004-2.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase3004-2\Clase3004-2\bin\Debug\Clase3004-2.pdb
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase3004-2\Clase3004-2\obj\Debug\Clase3004-2.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase3004-2\Clase3004-2\obj\Debug\Clase3004-2.pdb
