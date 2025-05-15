@@ -10,8 +10,7 @@ namespace Clase1505
     {
         static void Main(string[] args)
         {
-            int i=02;
-            int intentos = 1;
+            int i=0;
             int numeroIngresado=0;
 
             Random rnd = new Random();
@@ -39,7 +38,7 @@ namespace Clase1505
                 }
                 
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
