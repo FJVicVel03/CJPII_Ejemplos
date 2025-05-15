@@ -47,7 +47,6 @@ namespace Clase1505_2
                     case 3:
                         cont = false;
                         break;
-
                 }
             }
             Console.ReadKey();
