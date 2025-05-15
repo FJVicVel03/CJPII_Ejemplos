@@ -1,0 +1,6 @@
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\bin\Debug\Clase1505.exe.config
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\bin\Debug\Clase1505.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\bin\Debug\Clase1505.pdb
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\obj\Debug\Clase1505.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\obj\Debug\Clase1505.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1505\Clase1505\obj\Debug\Clase1505.pdb
