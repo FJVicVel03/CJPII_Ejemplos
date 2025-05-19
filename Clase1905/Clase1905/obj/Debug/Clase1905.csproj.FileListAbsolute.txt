@@ -1,0 +1,6 @@
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\bin\Debug\Clase1905.exe.config
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\bin\Debug\Clase1905.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\bin\Debug\Clase1905.pdb
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\obj\Debug\Clase1905.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\obj\Debug\Clase1905.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905\Clase1905\obj\Debug\Clase1905.pdb

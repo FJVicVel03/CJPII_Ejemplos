@@ -1,0 +1,5 @@
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905-2\Clase1905-2\bin\Debug\Clase1905-2.exe.config
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905-2\Clase1905-2\bin\Debug\Clase1905-2.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905-2\Clase1905-2\bin\Debug\Clase1905-2.pdb
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905-2\Clase1905-2\obj\Debug\Clase1905-2.exe
+C:\Users\Fernando\Desktop\Repositorio\CJPII_Ejemplos\Clase1905-2\Clase1905-2\obj\Debug\Clase1905-2.pdb
